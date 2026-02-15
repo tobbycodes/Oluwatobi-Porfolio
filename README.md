@@ -8,7 +8,7 @@ I am focused on frontend development and web design. My goal is to create clean,
 This portfolio reflects my growth, my skills, and my direction.
 
 
-**] About This Project [**
+About This Project
 
 This website was built to:
 
@@ -23,7 +23,7 @@ Position myself for remote and international opportunities
 Every section was designed intentionally.
 The layout, typography, spacing, and interactions are all carefully considered.
 
-**] Tech Stack [**
+Tech Stack
 
 ** HTML5
 
